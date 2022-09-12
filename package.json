@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expo-status-bar": "^1.4.0",
+    "matter-js": "^0.18.0",
+    "react-native-game-engine": "^1.2.0"
+  }
+}
