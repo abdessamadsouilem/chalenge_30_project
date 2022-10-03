@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project_1_flappy_bird",
-    "slug": "project_1_flappy_bird",
+    "name": "flappy_bird_by_abdessamad_souilem",
+    "slug": "flappy_bird_by_abdessamad_souilem",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "game1"
     },
     "android": {
       "adaptiveIcon": {
@@ -28,6 +29,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f8b3f105-6c7c-4c13-a29b-ba2759d7fdcd"
+      }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/abdessamadsouilem/chalenge_30_project/tree/main/project_1_flappy_bird"
   }
 }

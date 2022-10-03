@@ -19,6 +19,7 @@ export default function App() {
       <Text
         style={{
           textAlign: "center",
+          
           zIndex: 1,
           fontSize: 30,
           fontWeight: "bold",
